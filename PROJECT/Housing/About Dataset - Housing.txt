@@ -1,0 +1,3 @@
+About Dataset
+This dataset contains information about housing sales in Nashville, TN such as property, owner, sales, and tax information.
+The SQL queries I created for Data Cleaning can be found here https://github.com/bvanntruong/SQL.NashvilleHousing/blob/main/HousingQuery.sql

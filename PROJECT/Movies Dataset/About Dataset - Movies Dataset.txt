@@ -1,0 +1,4 @@
+About Dataset
+The Movies Dataset is a popular collection of movie-related data that is often used for research, analysis, and machine learning purposes. It contains a wide range of information about movies, such as details about the cast, crew, plot summaries, ratings, genres, release dates, and more.
+
+The dataset is derived from various sources, including IMDb (Internet Movie Database), and it has been preprocessed and consolidated into a structured format for ease of use. It provides a comprehensive set of data points that allow researchers and developers to explore different aspects of movies and perform various analyses.
